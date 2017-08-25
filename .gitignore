@@ -1,0 +1,18 @@
+/target/
+*.log
+
+# eclipse project files
+.classpath
+.project
+.settings/
+
+
+# static file
+webapp/
+css/
+fonts/
+js/
+*.html
+!web.xml
+
+
